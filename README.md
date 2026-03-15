@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahyasser0" alt="abdullahyasser0" /></a> </p>
 
-- 🔭 I’m currently working on integrating companies data with an LLMs
+- 🔭 I’m currently working on building Ai ecosystem for companies
 
 - 💬 Ask me about **AI Agents,Langchain , langraph and Large language models**
 
