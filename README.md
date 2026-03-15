@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate AI Engineer from Egypt</h3>
+<h3 align="center">AI agents developer from Egypt</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=cyan&size=24&center=true&vCenter=true&width=700&height=100&lines=Assalamu+Alaikum+Warahmatullah..♥;AI+Engineer+%7C+LLM+%26+NLP+Enthusiast;Building+smart+Computer+Vision+solutions;Exploring+the+world+of+AI+one+model+at+a+time;Starting+my+journey+on+social+media;Follow+me+on+LinkedIn+%F0%9F%91%89">
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on integrating companies data with an LLMs
 
-- 💬 Ask me about **AI integrations,Large language models and Computer vision.**
+- 💬 Ask me about **AI Agents,Langchain , langraph and Large language models**
 
 - 📫 How to reach me **Abdullahyasser2506@gmail.com**
 
