@@ -1,5 +1,5 @@
 <h1 align="center">Abdullah Yasser</h1>
-<h3 align="center">AI Engineer · Agentic Systems · LLMs in Production</h3>
+<h3 align="center">I build the AI agents that run your business while you sleep.</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
