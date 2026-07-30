@@ -3,53 +3,62 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=cyan&size=24&center=true&vCenter=true&width=700&height=100&lines=Turning+manual+ops+into+agentic+systems;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+n8n;Multi-agent+pipelines+in+production;Co-founder+%40+INTAG+Digital+Solutions;BSc+Data+Science+%26+AI+%E2%80%94+Zewail+City">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=cyan&size=24&center=true&vCenter=true&width=700&height=100&lines=Turning+manual+ops+into+agentic+systems;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+n8n;Multi-agent+pipelines+in+production;AI+Automation+%40+Fouad+El+Watan+BKR;BSc+Data+Science+%26+AI+%E2%80%94+Zewail+City">
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullahyasser0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahyasser0" />
+  <img src="https://komarev.com/ghpvc/?username=aytaha&label=Profile%20views&color=0e75b6&style=flat" alt="aytaha" />
 </p>
 
 ---
 
 ## What I build
 
-- **Wessal** — Multi-tenant WhatsApp AI agent platform (FastAPI + LangChain + Supabase + Docker)
-- **Agentic AI CRM** — Autonomous agents handling customer touchpoints end-to-end
-- **BawabaNews** — 4-agent LangGraph deep research pipeline (Planner → Researcher → Critic → Writer) *(consulted)*
-- **WhatsApp AI Sales Agents** — LLM + n8n + Supabase, production-deployed
+- **Baseta** — AI-powered financial solution for tax management @ Fouad El Watan BKR (LangGraph, CrewAI, LiteLLM, FastAPI)
+- **Wessal** — Omnichannel AI agent platform built @ INTAG Digital Solutions (FastAPI backend, LangGraph agent service, Gemini replies, Groq Whisper transcription, per-session PDF knowledge bases)
+- **Agentic AI CRM** — Autonomous agents handling customer touchpoints, follow-ups, and pipeline management end-to-end (LangGraph, FastAPI, Supabase)
+- **Social Media Automation System** — Automated engagement and lead-generation platform (n8n, Meta Graph API)
+- **Security Camera Analysis** — Real-time object detection pipeline on live video streams (YOLOv8m)
 
 ---
 
 ## Stack
 
-**AI/ML:** LangChain · LangGraph · LlamaIndex · RAG · Generative Models · NLP · Computer Vision · Speech Processing
+**AI/ML:** LangChain · LangGraph · LlamaIndex · RAG Pipelines · Generative Models (GANs/VAEs) · Reinforcement Learning · NLP · Computer Vision (YOLOv8) · Speech Processing · Prompt Engineering · TensorFlow · Keras · scikit-learn
 
-**Backend:** Python · FastAPI · Flask · Django · Node.js
+**Backend:** Python · FastAPI · Django · Flask · Node.js · REST API Design
 
-**Automation:** n8n · WhatsApp Business API · Meta Graph API
+**Automation:** n8n · CrewAI · LiteLLM · LangChain/LangGraph Workflow Orchestration
 
-**Infrastructure:** Docker · Dokploy · Traefik · Nginx · GitHub Actions · Hetzner VPS
+**Infrastructure:** Docker · Dokploy · Traefik · Nginx · PM2 · GitHub Actions CI/CD · Hetzner VPS
 
-**Databases:** Supabase (PostgreSQL) · Neo4j · Vector DBs
+**Databases:** Supabase (PostgreSQL) · Neo4j · SQL · Vector Databases
+
+**Frontend:** React · Vite · JavaScript · HTML/CSS
 
 ---
 
 ## Currently
 
-- 🔭 Building agentic AI infrastructure at [INTAG Digital Solutions](https://linkedin.com/in/aytaha)
-- 🎓 BSc in Data Science & AI — Zewail City University
+- 🔭 Building **Baseta**, an AI-powered tax management solution @ Fouad El Watan BKR
+- 🕘 Previously: AI Automation Engineer @ INTAG Digital Solutions — designed and shipped **Wessal**
+- 🎓 BSc in Data Science & AI — Zewail City University (Sep 2022 – Jun 2026)
 - 💬 Ask me about: **LangGraph · RAG pipelines · AI automation · multi-agent systems**
-- 📫 Reach me at: **abdullahyasser2506@gmail.com**
+- 📫 Reach me at: **abdullah@aytaha.com**
 
 ---
 
 ## Connect
 
 <p align="left">
+<a href="https://aytaha.com" target="blank">Portfolio: aytaha.com</a> ·
+<a href="https://linkedin.com/in/aytaha" target="blank">LinkedIn: aytaha</a> ·
+<a href="https://github.com/aytaha" target="blank">GitHub: aytaha</a>
+</p>
+
+<p align="left">
 <a href="https://linkedin.com/in/aytaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah__yasser0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -80,5 +89,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahyasser0&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdullahyasser0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aytaha&show_icons=true&locale=en&layout=compact&theme=dark" alt="aytaha" />
 </p>
